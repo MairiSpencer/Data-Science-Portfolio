@@ -1,8 +1,8 @@
-# Mairi Spencer's Portfolio
+# Mairi Spencer
 
-Portfolio of neural data science coding 
+Hi there! You've successfully accessed my portfolio.
 
-Hi there! Welcome to my portfolio.
+Here I will showcase to you my coding skills and Neural Data Science work
 
 If you have any further inquiries, you can contact me at 
 [mr856487@dal.ca](mailto:mr856487@dal.ca)
