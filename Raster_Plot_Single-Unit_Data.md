@@ -1,3 +1,4 @@
+### Single-Unit Data
 This block of code demonstrates a raster plot for single-unit data. This spike data had been retrieved from neurons within the primary visual cortex of mice using single electrodes to record. This raster plot represents both the control and adaptation condition for a specific neuron and tracks the number of firings.  
 
 
@@ -27,5 +28,6 @@ fig.suptitle('m1_6 neuron')
 plt.tight_layout()
 plt.show() 
 ```
+![Screenshot 2021-11-18 4 39 11 PM](https://user-images.githubusercontent.com/94637758/142497426-c6a43404-97b3-476e-8145-ed49f7d754a7.png)
 
 
