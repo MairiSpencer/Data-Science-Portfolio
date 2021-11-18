@@ -1,3 +1,7 @@
+### Histogram Plot Visualization
+This histogram plot showcases the log reaction of a specific condition. Visualization acts as an important component for the interpretation of the overall data set.
+
+
 ```python
 sns.displot(data=df, x='log_rt', hue='flankers')
 plt.show()
