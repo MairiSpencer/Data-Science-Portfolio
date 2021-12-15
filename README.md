@@ -2,7 +2,7 @@
 
 Hi there! You've successfully made it to my portfolio.
 
-Here I will showcase to you some of my neural data science work.
+Here I will showcase to you some of my work from my course on [Neural Data Science](https://dalpsychneuro.github.io/NESC_3505/).
 
 These are some examples that demonstrate my coding abilities: 
 - [Visualization of reaction times for a Flanker experiment](Visualization.md)
