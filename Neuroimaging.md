@@ -1,5 +1,5 @@
 # Neuroimaging of Multiple Brain Slices
-This code was for an assignment demonstrating neuroimaging with MRI data. Specifically, this question visualized 3D images of multiple slices of a human brain. It arranged this in a 4 x 4 array and used the enumerate loop variable to create the for loop.  
+This code was for an assignment demonstrating neuroimaging with MRI data. Specifically, this question visualized 3D images of multiple slices of a human brain. This was arranged in a 4 x 4 array and consisted of the enumerate loop variable to create the for loop within this code.  
 
 ```
 fig, axs = plt.subplots(4, 4, figsize=[8, 8])
