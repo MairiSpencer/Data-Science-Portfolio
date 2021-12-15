@@ -11,5 +11,4 @@ These are some examples that demonstrate my coding abilities:
 - [Panda Dataframes](Pandas_df.md)
 - [Neuroimaging](Neuroimaging.md) 
 
-If you have any further inquiries, you can contact me at 
-[mr856487@dal.ca](mailto:mr856487@dal.ca)
+Please reach out to me by [email](mailto:mr856487@dal.ca) if you have any further inquiries. 
