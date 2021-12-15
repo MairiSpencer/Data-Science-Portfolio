@@ -1,10 +1,10 @@
 # Mairi Spencer
 
-Hi there! You've successfully accessed my portfolio.
+Hi there! You've successfully made it to my portfolio.
 
-This portfolio will showcase to you my work for Neural Data Science
+Here I will showcase to you some of my neural data science work.
 
-Here are some examples demonstrating that demonstrate my coding abilities: 
+These are some examples that demonstrate my coding abilities: 
 - [Visualization of reaction times for a Flanker experiment](Visualization.md)
 - [Single-unit data example](Raster_Plot_Single-Unit_Data.md) 
 - [Exploratory data analysis](T-test.md)
