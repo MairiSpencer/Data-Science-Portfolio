@@ -1,6 +1,6 @@
 ### Exploratory Data Analysis 
 
-This purpose of this code was to find t and p values in order to compare the reaction times between two sets of conditions. This code helped me to reject or fail to reject certain hypotheses. 
+The purpose of this code was to find t and p values in order to compare the reaction times between two sets of conditions. This code helped me to reject or fail to reject certain hypotheses. 
 
 
 ```
