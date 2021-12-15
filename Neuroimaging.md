@@ -1,4 +1,4 @@
-#Neuroimaging of Multiple Brain Slices
+# Neuroimaging of Multiple Brain Slices
 This code was for an assignment demonstrating neuroimaging with MRI data. Specifically, this question visualized 3D images of multiple slices of a human brain. It arranged this in a 4 x 4 array and used the enumerate loop variable to create the for loop.  
 
 ```
@@ -17,7 +17,7 @@ plt.show()
 
 ![Screenshot 2021-12-15 10 43 17 AM](https://user-images.githubusercontent.com/94637758/146208408-9af82384-d545-4d82-9717-30b23c871030.png)
 
-#Reslice an Image
+# Reslice an Image
 We can also reslice a 3D image to visualize the brain from a different point of view. Using the plt.imshow function we can convert an image from the saggital plane to now represent itself as if viewing from face on in the coronal plane.
 
 ```
