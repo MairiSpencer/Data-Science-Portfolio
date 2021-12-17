@@ -1,6 +1,6 @@
 ### Exploratory Data Analysis 
 
-The purpose of this code was to find t and p values in order to compare the reaction times between two sets of conditions. This code helped me to reject or fail to reject certain hypotheses. 
+Scipy is a Python library which enabled the creation of this one-tailed t-test. Scipy can also provide interpolation, optimization, linear algebra The purpose of this code was to find t and p values in order to compare the reaction times between two sets of conditions. This code helped to determine whether we reject or fail to reject certain hypotheses.  
 
 
 ```
