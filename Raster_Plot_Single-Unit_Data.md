@@ -28,8 +28,7 @@ fig.suptitle('m1_6 neuron')
 plt.tight_layout()
 plt.show() 
 ```
-![Screenshot 2021-11-18 4 39 11 PM](https://user-images.githubusercontent.com/94637758/142497426-c6a43404-97b3-476e-8145-ed49f7d754a7.png)
-![Screenshot 2021-11-18 5 13 10 PM](https://user-images.githubusercontent.com/94637758/142497850-9f2da43f-bcb4-4f3f-954f-ed8c6feb95ef.png)
-![Screenshot 2021-11-18 5 14 13 PM](https://user-images.githubusercontent.com/94637758/142497930-b6b751d7-cf35-4a50-8a87-225c3612fa4f.png)
+
+![Screenshot 2021-12-17 1 57 13 PM](https://user-images.githubusercontent.com/94637758/146587917-1363cc69-38ee-4d82-9ea1-dc6559390114.png)
 
 
